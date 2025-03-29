@@ -1,6 +1,6 @@
 # Juniplac
 
-![](https://imgur.com/J1XvLEx)
+![](https://imgur.com/J1XvLEx.gif)
 
 ## Sobre o projeto
 
